@@ -31,9 +31,6 @@ const Home = () => {
 						onKeyUp={
 							(e) => { handleInput(e) }
 						} />
-					{/* <div> */}
-						{/* {tarea} */}
-					{/* </div> */}
 					<div>
 						<ul className="list-group list-group-flush ">
 							{
